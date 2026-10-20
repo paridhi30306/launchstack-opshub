@@ -196,7 +196,7 @@ launchstack-opshub/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/tanmaykumar7106-collab/launchstack-opshub.git
+git clone https://github.com/paridhi30306/launchstack-opshub.git
 ```
 
 ---
@@ -309,7 +309,7 @@ Database
 
 # 👨‍💻 Author
 
-**Tanmay Kumar**
+**Paridhi Singh**
 
 B.Tech CSE (AI & ML)
 
