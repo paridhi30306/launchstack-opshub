@@ -10,8 +10,8 @@ LaunchStack OpsHub is a modern business management platform built with the **MER
 
 | Service | Status |
 |----------|--------|
-| Frontend | ✅ https://launchstack-opshub-pate.vercel.app |
-| Backend API | ✅ https://launchstack-opshub.vercel.app |
+| Frontend | ✅ [https://launchstack-opshub-pate.vercel.app](https://launchstack-opshub-pate.vercel.app/login) |
+| Backend API | ✅ [https://launchstack-opshub.vercel.app](https://launchstack-opshub.vercel.app/) |
 | Database | ✅ MongoDB Atlas |
 | AI Copilot | 🖥️ Local (Ollama) |
 
